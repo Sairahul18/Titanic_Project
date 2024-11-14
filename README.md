@@ -1,0 +1,1 @@
+This project aims to analyze and predict the survival chances of passengers on the Titanic using logistic regression. The dataset, "train.csv," includes various features such as passenger age, fare, class, and family size to develop a model that can classify survival outcomes.
